@@ -1,0 +1,59 @@
+  <section class="registration">
+    <div class="container">
+      <form [formGroup]="registerForm" (ngSubmit)="registerUser()" >
+
+        <input [(ngModel)]="form.username" class="input" type = "text" placeholder="enter username" formControlName="user">
+        <br>
+        <span class="err" *ngIf="user && user.invalid && user.touched">The input field is invalid</span>
+        <br>
+
+
+        <input  [(ngModel)]="form.password" class="input" type = "password" placeholder="enter password" formControlName="password">
+        <br>
+        <span class="err" *ngIf="password && password.invalid && password.touched">Password is invalid</span>
+        <br>
+
+
+        <input class="input" type = "password" placeholder="repeat password" formControlName="repeatPassword">
+        <br>
+        <span class="err" *ngIf="repeatPassword && repeatPassword.errors?.MustMatch && repeatPassword.touched">Пароли не совпадают</span>
+        <br>
+
+
+        <input  [(ngModel)]="form.name" class="input" type = "text" placeholder="enter your name" formControlName="userName">
+        <br>
+        <span class="err" *ngIf="userName && userName.errors?.minlength && userName.touched">Длина имени должна быть как минимум 2 символа</span>
+        <br>
+        <span class="err" *ngIf="userName && userName.errors?.pattern && userName.touched">Имя должно содержать только русские буквы</span>
+        <br>
+        <span class="err" *ngIf="userName && userName.errors?.FirstSymbolShouldBeUppercase && userName.touched">Имя должно начинаться с заглавной буквы</span>
+        <br>
+
+
+        <input  [(ngModel)]="form.surname" class="input" type = "text" placeholder="enter your surname" formControlName="userSurname">
+        <br>
+        <span class="err" *ngIf="userSurname && userSurname.errors?.minlength && userSurname.touched">Длина фамилии должна быть как минимум 2 символа</span>
+        <br>
+        <span class="err" *ngIf="userSurname && userSurname.errors?.pattern && userSurname.touched">Фамилия должно содержать только русские буквы</span>
+        <br>
+        <span class="err" *ngIf="userSurname && userSurname.errors?.FirstSymbolShouldBeUppercase && userSurname.touched">Фамилия должно начинаться с заглавной буквы</span>
+        <br>
+
+
+        <input  [(ngModel)]="form.email" class="input" type = "email" placeholder="enter your mail" formControlName="email">
+        <br>
+        <span class="err" *ngIf="user && user.invalid && user.touched">The input field is invalid</span>
+        <br>
+
+
+        <div class="text-center">
+          <button [disabled]="registerForm.invalid" class="btn">Login</button>
+        </div>
+
+
+      </form>
+    </div>
+  </section>
+
+
+

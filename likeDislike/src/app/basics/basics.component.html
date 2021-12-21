@@ -1,0 +1,85 @@
+<body>
+<section class="banner">
+  <div class="wrapper onThumb">
+    <h1 class="title">{{algType?.sectionName}}</h1> <!-- Заменить на переменную -->
+    <p>{{algType?.sectionDescription}}</p> <!-- Заменить на переменную -->
+  </div>
+</section>
+<section class="catalog">
+  <div class="wrapper">
+    <div class="grid">
+      <div class="grid-item grid-item-title">
+        <h2 class="title-h2">Алгоритмы</h2>
+      </div>
+      <div class="grid-item grid-item-img">
+      </div>
+      <div class="grid-item grid-item-catalog">
+        <div class="bg-white">
+          <div class="thumb">
+            <img src="{{algType.firstAlg[2]}}"  alt="Icon"> <!-- Заменить на переменную -->
+          </div>
+          <p class="grid-title">{{algType.firstAlg[0]}}</p> <!-- Заменить на переменную -->
+          <p class="grid-price">{{algType.firstAlg[1]}} </p> <!-- Заменить на переменную -->
+          <a class="grid-btn" href="#">Подробнее</a>
+        </div>
+      </div>
+      <div class="grid-item grid-item-catalog">
+        <div class="bg-white">
+          <div class="thumb">
+            <img src="{{algType.secondAlg[2]}}" alt="Icon">
+          </div>
+          <p class="grid-title">{{algType.secondAlg[0]}}</p> <!-- Заменить на переменную -->
+          <p class="grid-price">{{algType.secondAlg[1]}} </p> <!-- Заменить на переменную -->
+          <a class="grid-btn" href="#">Подробнее</a>
+        </div>
+      </div>
+      <div class="grid-item grid-item-catalog">
+        <div class="bg-white">
+          <div class="thumb">
+            <img src="{{algType.thirdAlg[2]}}" alt="Icon">
+          </div>
+          <p class="grid-title">{{algType.thirdAlg[0]}}</p> <!-- Заменить на переменную -->
+          <p class="grid-price">{{algType.firstAlg[1]}} </p> <!-- Заменить на переменную -->
+          <a class="grid-btn" href="#">Подробнее</a>
+        </div>
+      </div>
+      <div class="grid-item grid-item-catalog">
+        <div class="bg-white">
+          <div class="thumb">
+            <img src="{{algType.fourthAlg[2]}}" alt="Icon">
+          </div>
+          <p class="grid-title">{{algType.fourthAlg[0]}}</p> <!-- Заменить на переменную -->
+          <p class="grid-price">{{algType.firstAlg[1]}}</p>  <!-- Заменить на переменную -->
+          <a class="grid-btn" href="#">Подробнее</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="bg-white">
+    <div class="wrapper">
+      <div class="footer-top">
+        <div class="footer-top-item">
+          <ul class="social">
+            <li class="social-item"><a class="social-link social-youtube" href="" target="_blank"></a></li>
+            <li class="social-item"><a class="social-link social-vk" href="" target="_blank"></a></li>
+            <li class="social-item"><a class="social-link social-fb" href="" target="_blank"></a></li>
+            <li class="social-item"><a class="social-link social-instagram" href="" target="_blank"></a></li>
+          </ul>
+        </div>
+        <div class="footer-info">
+          <span>easyalgos@gmail.com</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="wrapper">
+    <div class="footer-bottom">
+      <p>Easy algorithms (с) 2019 Все права защищены. Обучающий ресурс.</p>
+      <a href="#">Политика конфиденциальности</a>
+    </div>
+  </div>
+
+</footer>
+</body>

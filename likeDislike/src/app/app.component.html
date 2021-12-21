@@ -1,0 +1,78 @@
+<header>
+  <div class="bg-white">
+    <div class="header">
+      <div class="wrapper">
+        <div class="header-top">
+          <div class="logo"><span class="logo-image"></span><span> EASY ALGORITHMS</span></div>
+        </div>
+      </div>
+      <hr>
+      <div class="wrapper">
+        <div class="header-bottom">
+          <ul class="nav">
+            <li><a href="../alg-types/sort-algs/sort-algs.component.html">Алгоритмы сортировки</a></li>
+            <li><a href="search-algs.component.html">Алгоритмы поиска</a></li>
+            <li><a href="../alg-types/trees/trees.component.html">Деревья</a></li>
+            <li><a href="../alg-types/hash/hash.component.html">Хэширование</a></li>
+            <li><a href="../alg-types/beginer/beginer.component.html">Основы</a></li>
+            <li><a href="../alg-types/data-types/data-types.component.html">Типы данных</a></li>
+            <li *ngIf="!isLoggedIn" class="nav-item">
+              <a href="/register" class="nav-link" routerLink="register">Sign Up</a>
+            </li>
+            <li *ngIf="!isLoggedIn" class="nav-item">
+              <a href="/login" class="nav-link" routerLink="login">Login</a>
+            </li>
+            <li *ngIf="isLoggedIn" class="nav-item">
+              <a href="/profile" class="nav-link" routerLink="profile">{{ username }}</a>
+            </li>
+            <li *ngIf="isLoggedIn" class="nav-item">
+              <a href class="nav-link" (click)="logout()">LogOut</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div id="app">
+<!--  <nav class="navbar navbar-expand navbar-dark bg-dark">-->
+<!--    <a href="#" class="navbar-brand">bezKoder</a>-->
+<!--    <ul class="navbar-nav mr-auto" routerLinkActive="active">-->
+<!--      <li class="nav-item">-->
+<!--        <a href="/search-algs.component.html" class="nav-link" routerLink="home">Home </a>-->
+<!--      </li>-->
+<!--      <li class="nav-item" *ngIf="showAdminBoard">-->
+<!--        <a href="/admin" class="nav-link" routerLink="admin">Admin Board</a>-->
+<!--      </li>-->
+<!--      <li class="nav-item" *ngIf="showModeratorBoard">-->
+<!--        <a href="/mod" class="nav-link" routerLink="mod">Moderator Board</a>-->
+<!--      </li>-->
+<!--      <li class="nav-item">-->
+<!--        <a href="/user" class="nav-link" *ngIf="isLoggedIn" routerLink="user">User</a>-->
+<!--      </li>-->
+<!--    </ul>-->
+
+<!--    <ul class="navbar-nav ml-auto" *ngIf="!isLoggedIn">-->
+<!--      <li class="nav-item">-->
+<!--        <a href="/register" class="nav-link" routerLink="register">Sign Up</a>-->
+<!--      </li>-->
+<!--      <li class="nav-item">-->
+<!--        <a href="/login" class="nav-link" routerLink="login">Login</a>-->
+<!--      </li>-->
+<!--    </ul>-->
+
+<!--    <ul class="navbar-nav ml-auto" *ngIf="isLoggedIn">-->
+<!--      <li class="nav-item">-->
+<!--        <a href="/profile" class="nav-link" routerLink="profile">{{ username }}</a>-->
+<!--      </li>-->
+<!--      <li class="nav-item">-->
+<!--        <a href class="nav-link" (click)="logout()">LogOut</a>-->
+<!--      </li>-->
+<!--    </ul>-->
+<!--  </nav>-->
+
+  <div class="container">
+    <router-outlet></router-outlet>
+  </div>
+</div>
+

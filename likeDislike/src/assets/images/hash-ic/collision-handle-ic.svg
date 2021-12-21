@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="155"
+   height="166"
+   viewBox="0 0 41.010416 43.920835"
+   version="1.1"
+   id="svg11027"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11024">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21172" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker21447"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21445" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21169" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21175" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-8"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21172-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21172-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-2-8"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21172-1-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-9"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21172-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21172-48" />
+    </marker>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+     x="39.01836"
+     y="32.334396"
+     id="text29020"><tspan
+       id="tspan29018"
+       style="stroke-width:0.264583"
+       x="39.01836"
+       y="32.334396" /></text>
+  <g
+     id="g47877"
+     transform="matrix(0.7385984,0,0,0.78297562,-0.32249236,5.2568936)">
+    <g
+       id="g82848"
+       transform="matrix(1.876125,0,0,0.9994827,-39.648453,2.1764723)">
+      <g
+         id="g82546"
+         transform="translate(0,-0.01124071)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.331021;stroke-linecap:round"
+           id="rect9794-0"
+           width="6.8334498"
+           height="5.7131243"
+           x="35.807392"
+           y="-4.3081393" />
+        <rect
+           style="fill:#5498ac;fill-opacity:1;stroke:#000000;stroke-width:0.331127;stroke-linecap:round"
+           id="rect9794-4"
+           width="6.8333435"
+           height="5.716857"
+           x="42.640842"
+           y="-4.3081393" />
+      </g>
+      <g
+         id="g82546-1"
+         transform="translate(0,5.7056162)">
+        <rect
+           style="fill:#00fd93;fill-opacity:1;stroke:#000000;stroke-width:0.331021;stroke-linecap:round"
+           id="rect9794-0-3"
+           width="6.8334498"
+           height="5.7131243"
+           x="35.807392"
+           y="-4.3081393" />
+        <rect
+           style="fill:#5498ac;fill-opacity:1;stroke:#000000;stroke-width:0.331127;stroke-linecap:round"
+           id="rect9794-4-7"
+           width="6.8333435"
+           height="5.716857"
+           x="42.640842"
+           y="-4.3081393" />
+      </g>
+      <g
+         id="g82546-6"
+         transform="translate(0,11.422473)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.331021;stroke-linecap:round"
+           id="rect9794-0-5"
+           width="6.8334498"
+           height="5.7131243"
+           x="35.807392"
+           y="-4.3081393" />
+        <rect
+           style="fill:#5498ac;fill-opacity:1;stroke:#000000;stroke-width:0.331127;stroke-linecap:round"
+           id="rect9794-4-3"
+           width="6.8333435"
+           height="5.716857"
+           x="42.640842"
+           y="-4.3081393" />
+      </g>
+      <g
+         id="g82546-7"
+         transform="translate(0,17.13933)">
+        <rect
+           style="fill:#fa0a0a;fill-opacity:1;stroke:#000000;stroke-width:0.331021;stroke-linecap:round"
+           id="rect9794-0-4"
+           width="6.8334498"
+           height="5.7131243"
+           x="35.807392"
+           y="-4.3081393" />
+        <rect
+           style="fill:#5498ac;fill-opacity:1;stroke:#000000;stroke-width:0.331127;stroke-linecap:round"
+           id="rect9794-4-1"
+           width="6.8333435"
+           height="5.716857"
+           x="42.640842"
+           y="-4.3081393" />
+      </g>
+      <g
+         id="g82546-0"
+         transform="translate(0,22.856187)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.331021;stroke-linecap:round"
+           id="rect9794-0-0"
+           width="6.8334498"
+           height="5.7131243"
+           x="35.807392"
+           y="-4.3081393" />
+        <rect
+           style="fill:#5498ac;fill-opacity:1;stroke:#000000;stroke-width:0.331127;stroke-linecap:round"
+           id="rect9794-4-18"
+           width="6.8333435"
+           height="5.716857"
+           x="42.640842"
+           y="-4.3081393" />
+      </g>
+      <g
+         id="g82546-5"
+         transform="translate(0,28.573044)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.331021;stroke-linecap:round"
+           id="rect9794-0-6"
+           width="6.8334498"
+           height="5.7131243"
+           x="35.807392"
+           y="-4.3081393" />
+        <rect
+           style="fill:#5498ac;fill-opacity:1;stroke:#000000;stroke-width:0.331127;stroke-linecap:round"
+           id="rect9794-4-8"
+           width="6.8333435"
+           height="5.716857"
+           x="42.640842"
+           y="-4.3081393" />
+      </g>
+      <g
+         id="g82546-2"
+         transform="translate(0,34.289901)">
+        <rect
+           style="fill:#00fd93;fill-opacity:1;stroke:#000000;stroke-width:0.331021;stroke-linecap:round"
+           id="rect9794-0-1"
+           width="6.8334498"
+           height="5.7131243"
+           x="35.807392"
+           y="-4.3081393" />
+        <rect
+           style="fill:#5498ac;fill-opacity:1;stroke:#000000;stroke-width:0.331127;stroke-linecap:round"
+           id="rect9794-4-2"
+           width="6.8333435"
+           height="5.716857"
+           x="42.640842"
+           y="-4.3081393" />
+      </g>
+      <g
+         id="g82546-8"
+         transform="translate(0,40.006758)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.331021;stroke-linecap:round"
+           id="rect9794-0-2"
+           width="6.8334498"
+           height="5.7131243"
+           x="35.807392"
+           y="-4.3081393" />
+        <rect
+           style="fill:#5498ac;fill-opacity:1;stroke:#000000;stroke-width:0.331127;stroke-linecap:round"
+           id="rect9794-4-11"
+           width="6.8333435"
+           height="5.716857"
+           x="42.640842"
+           y="-4.3081393" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="31.903561"
+       y="43.880177"
+       id="text89548-7"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan89546-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="31.903561"
+         y="43.880177">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="32.0098"
+       y="37.930779"
+       id="text89548-3"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan89546-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="32.0098"
+         y="37.930779">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="32.116039"
+       y="31.981377"
+       id="text89548-81"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan89546-22"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="32.116039"
+         y="31.981377">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="31.903563"
+       y="26.031979"
+       id="text89548-59"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan89546-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="31.903563"
+         y="26.031979">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="32.116039"
+       y="20.295061"
+       id="text89548-1"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan89546-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="32.116039"
+         y="20.295061">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="32.222279"
+       y="14.133185"
+       id="text89548-8"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan89546-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="32.222279"
+         y="14.133185">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="32.540997"
+       y="8.2900267"
+       id="text89548-5"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan89546-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="32.540997"
+         y="8.2900267">1</tspan></text>
+    <g
+       id="g82858"
+       transform="matrix(1.5272825,0,0,0.98318632,-3.3240868,-3.1541462)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.432261;stroke-linecap:round"
+         id="rect9794"
+         width="11.854593"
+         height="5.6157236"
+         x="3.903523"
+         y="0.95349818" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="31.977127"
+       y="2.3300638"
+       id="text89548"
+       transform="scale(1.0296033,0.97124784)"><tspan
+         id="tspan89546"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="31.977127"
+         y="2.3300638">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="7.8608208"
+       y="2.0113459"
+       id="text98100"
+       transform="scale(1.0296033,0.97124784)"><tspan
+         id="tspan98098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="7.8608208"
+         y="2.0113459">Dog</tspan></text>
+    <g
+       id="g82858-1"
+       transform="matrix(1.5272825,0,0,0.98318632,-3.2018459,8.2643078)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.432261;stroke-linecap:round"
+         id="rect9794-2"
+         width="11.854593"
+         height="5.6157236"
+         x="3.903523"
+         y="0.95349818" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="7.979547"
+       y="13.767823"
+       id="text98100-3"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan98098-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="7.979547"
+         y="13.767823">Cat</tspan></text>
+    <g
+       id="g82858-15"
+       transform="matrix(1.5272825,0,0,0.98318632,-3.0924617,18.479587)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.432261;stroke-linecap:round"
+         id="rect9794-04"
+         width="11.854593"
+         height="5.6157236"
+         x="3.903523"
+         y="0.95349818" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="8.0857868"
+       y="24.285509"
+       id="text98100-35"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan98098-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="8.0857868"
+         y="24.285509">Fox</tspan></text>
+    <g
+       id="g82858-6"
+       transform="matrix(1.5272825,0,0,0.98318632,-3.0924616,30.55219)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.432261;stroke-linecap:round"
+         id="rect9794-8"
+         width="11.854593"
+         height="5.6157236"
+         x="3.903523"
+         y="0.95349818" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347924"
+       x="6.3859577"
+       y="36.927979"
+       id="text98100-6"
+       transform="scale(1.0296033,0.97124785)"><tspan
+         id="tspan98098-13"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63898px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.347924"
+         x="6.3859577"
+         y="36.927979">Whale</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.347924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 20.891488,0.19937657 27.399853,6.3388627"
+       id="path105175" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.347924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.891488,11.910833 6.563057,6.036301"
+       id="path105177" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.347924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.94618,22.022928 6.508365,-4.075794"
+       id="path105179" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.347924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21.010761,34.436889 6.535768,0.547218"
+       id="path105181" />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<section class="registration">
+  <div class="container">
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" >
+      <input [(ngModel)]="form.username" class="input" type = "text" placeholder="enter name" formControlName="user">
+      <br>
+      <br>
+      <input [(ngModel)]="form.password" class="input" type = "password" placeholder="enter password" formControlName="password">
+
+      <button class="btn" [disabled]="loginForm.invalid">Login</button>
+    </form>
+  </div>
+</section>
+
